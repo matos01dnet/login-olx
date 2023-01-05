@@ -1,0 +1,220 @@
+body{
+    font-family: 'Nunito Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    height: 140vh;
+    margin: 0px;
+    background-color: #f9f9f9;
+    }
+    .conteine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 157vh;
+    background-color: #f9f9f9;
+
+    }
+    .filho{
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px 4px 0px 0px;
+    padding: 32px 56px 24px;
+    height: 799px;
+    width: 418px;    
+    margin-bottom: 111px;
+    box-shadow: rgb(153 153 153 / 20%) 0px 2px 4px 0px;
+
+    }
+    .olx{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 32px;
+    height: 125%;
+
+
+    }
+
+
+
+    .btn{
+    margin-bottom: 15px;
+    border-radius: 40px;
+    border: none;
+    width: 100%;
+    height: 57px;
+    color: white;
+    padding: 10px 11px 13px 3px;      
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    font-size: 17px;
+
+    }
+    .btn1{
+    margin-top: 10px;
+    background-color: #4d69a2;
+
+
+    }
+    .btn2{
+    background-color:#4285f4;
+
+
+    }
+
+
+    .btn3{
+    border: solid 2px #f59f3f;
+    background-color:white;
+    color: #f59f3f;
+    }
+    .dentro{
+    margin: auto;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: "Nunito Sans", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+    }
+    .icone{
+    padding-left: 29px;
+    }
+    #ou{
+    color: rgb(137, 137, 137);
+    font-size: 15px;
+    position: relative;
+    top: -11px;
+
+
+    }
+
+    .linha{
+    width: 100%;
+    border-style: solid;
+    border-width: 1px 0px 0px;
+    border-color: rgb(242, 242, 242);
+    text-align: center;
+    margin-top: 15px;
+
+    }
+    #dois{
+        margin-top: -12px;
+        margin-bottom: 34px;
+    color: rgb(74, 74, 74);
+    font-size: 20px;
+    color: rgb(74, 74, 74);
+    font-weight: 600;
+   
+ 
+    }
+    form{
+        display: flex;
+        flex-direction: column;
+        height: 47%;
+        width: 100%;
+    }
+    #segundo{
+    display: flex;
+    justify-content: space-between;
+    }
+    #email{
+    margin-bottom: 15px;
+    }
+    #senha{
+    margin-bottom: 24px;
+    }
+    #senhaa{
+        color: rgb(110, 10, 214);
+        font-size: 15px !important;
+        font-weight: 600;
+        text-align: center !important;
+        text-decoration: none !important;
+        font-family: "Nunito Sans", sans-serif !important;
+        cursor: pointer;
+
+    }
+    .zero{
+    font-weight: bold;
+    color: rgb(74, 74, 74);
+    margin-bottom: 12px;
+    font-size: 17px;
+font-weight: bold;
+
+    }
+    input{
+    min-height: 48px !important;
+    border-width: 1px !important;
+    border-radius: 4px !important;
+    outline: none;
+    border-style: solid;
+    }
+    #entra{
+    background-color: rgb(247, 131, 35);
+    border-radius:40px;
+    color:white;
+    border: none;
+    font-size: 19px;
+    height:48px;
+
+    }
+    #linhaum{
+    width: 100%;
+    border-style: solid;
+    border-width: 1px 0px 0px;
+    border-color: rgb(242, 242, 242);    
+    text-align: center;
+
+    margin-top: 15px;
+
+    }
+    .e{
+    text-align: center;
+    }
+    a{
+    color: rgb(110, 10, 214);
+    text-decoration: none;
+    font-weight: 600;
+    font-size:16px;
+    }
+    p{
+    color: rgb(74, 74, 74);
+    font-size:16px;
+    font-weight: 400;
+    font-family: "Nunito Sans", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+    }
+    .m{
+        font-size: 16px;
+        font-weight: 400;
+        font-family: "Nunito Sans", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+        line-height: 49px;
+        background-color: #f9f9f9;
+        width: 534px;
+        margin-left: -55px;
+        color: rgb(74, 74, 74);
+        cursor: pointer;
+        margin-top: 14px;
+        transition: all 4ms;
+    }
+
+    .m:hover{
+    color: rgb(110, 10, 214);
+    background-color: rgb(247, 241, 253);
+    }
+
+    #ui{
+    width: 462px;
+    font-size: 12px;
+    line-height: 27px;
+    margin-top: -32px;  
+      font-weight: 400;
+    color: rgb(153, 153, 153);
+    }
+    .termo{
+    color: rgb(110, 10, 214);
+    font-size: 12px;
+
+    }
+    #fum{
+        color: white;
+        margin: auto;
+font-size: 17px;
+font-weight: bold;
+font-family: "Nunito Sans", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+margin-left: -78px;
+    }
